@@ -1,4 +1,4 @@
-﻿campaña_id;fecha_inicio;fecha_fin;canal_marketing;inversion_publicitaria;ventas_generadas;clicks;conversiones
+﻿campana_id;fecha_inicio;fecha_fin;canal_marketing;inversion_publicitaria;ventas_generadas;clicks;conversiones
 1;10-01-24;20-01-24;digital;500000;2000000;15000;140
 2;11-01-24;21-01-24;television;700000;3000000;9000;150
 3;12-01-24;22-01-24;redes sociales;1500000;4000000;20000;200
